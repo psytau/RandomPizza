@@ -1,5 +1,5 @@
 class RandomPizza
-  attr_accessor :suggestion
+  attr_reader :suggestion
 
   def initialize
     puts "Hello adventurous person!"
@@ -9,6 +9,8 @@ class RandomPizza
   def suggestion
     "You should try #{crust} crust with #{sauce} sauce and #{toppings}."
   end
+
+  private
 
   def crust
     ["whole wheat", "thin", "gluten-free", "classic"].sample
