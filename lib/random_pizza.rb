@@ -2,12 +2,6 @@
 # This class suggests a random pizza to adventurous impatient hungry people
 
 class RandomPizza
-  attr_reader :suggestion
-
-  def initialize
-    puts "Hello adventurous person!"
-    puts suggestion
-  end
 
   def suggestion
     "You should try #{crust} crust with #{sauce} sauce and #{toppings}."

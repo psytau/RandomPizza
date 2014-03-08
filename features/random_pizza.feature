@@ -6,5 +6,4 @@ Feature: suggest a random pizza
 
   Scenario: start suggester
     Given I have started the app
-    Then I should see "Hello adventurous person!"
-      And I should see a suggestion "You should try"
+    Then I should see a suggestion "You should try"
