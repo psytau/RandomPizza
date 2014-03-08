@@ -12,6 +12,7 @@ RandomPizza is 100% vegan. Heart disease is the number one killer!
 Once installed, use the +RandomPizza+ command to get a suggestion
 
   $ p = RandomPizza.new
+  $ p.suggestion
 
 == License
 
