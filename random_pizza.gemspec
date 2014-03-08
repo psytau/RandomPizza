@@ -1,7 +1,8 @@
 Gem::Specification.new do |s|
   s.name        = 'random_pizza'
-  s.version     = '0.0.0'
-  s.date        = '2014-02-14'
+  s.version     = '0.1.4'
+  s.executables << 'pizza'
+  s.date        = '2014-02-20'
   s.summary     = "Random pizza"
   s.description = "Generate a random pizza suggestion"
   s.authors     = ["Lynne Cooney"]
