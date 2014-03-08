@@ -1,5 +1,0 @@
-#!/usr/bin/env ruby
-
-require 'random_pizza'
-p = RandomPizza.new
-puts p.suggestion
