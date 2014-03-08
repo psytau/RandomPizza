@@ -1,3 +1,6 @@
+##
+# This class suggests a random pizza to adventurous impatient hungry people
+
 class RandomPizza
   attr_reader :suggestion
 
