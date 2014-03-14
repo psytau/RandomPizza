@@ -1,0 +1,50 @@
+# a list of all possible pizza toppings
+# TODO: complete this list
+
+cheese:
+ - Feta
+ - Fontina
+ - Goat Cheese
+ - Gorgonzola
+ - Extra Mozzarella
+ - Fresh Mozzarella
+ - Ricotta
+
+meat:
+ - Anchovies
+ - Canadian Bacon
+ - Marinated Chicken
+ - Italian Sausage
+ - Pepperoni
+ - Prosciutto
+ - Salami
+
+veggies:
+ - Artichoke Hearts
+ - Basil
+ - Fresh or Roasted Garlic
+ - Green Peppers
+ - Imported Peppers
+ - Jalapeño Peppers
+ - Kalamata Olives
+ - Mama Lil’s Peppers
+ - Mushrooms
+ - Olives
+ - Onions
+ - Pesto
+ - Pineapple
+ - Red Onions
+ - Spinach
+ - Sun-Ripened Tomatoes
+ - garlic
+ - onions
+ - tomatoes
+ - olives
+ - green peppers
+ - potatoes
+ - spinach
+ - artichoke hearts
+ - roasted red peppers
+ - jalapenos
+ - pineapple
+ - roasted garlic
